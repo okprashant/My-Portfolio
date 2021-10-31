@@ -289,16 +289,23 @@ img{
   z-index: var(--z-back);
 }
 .skills__html{
-  width: 95%;
-}
-.skills__css{
-  width: 85%;
-}
-.skills__js{
   width: 65%;
 }
-.skills__ux{
+.skills__css{
+  width: 60%;
+}
+.skills__js{
+  width: 50%;
+}
+.skills__py{
+  width: 45%;
+}
+
+.skills__wp{
   width: 85%;
+}
+.skills__jv{
+  width: 40%;
 }
 .skills__img{
   border-radius: .5rem;
@@ -475,6 +482,8 @@ img{
   left: 50%;
   margin-left: -80px;
 }
+
+
 
 /* Popup arrow */
 .popup .popuptext::after {
