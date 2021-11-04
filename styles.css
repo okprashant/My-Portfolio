@@ -5,6 +5,10 @@
   --header-height: 3rem;
   --font-semi: 600;
 }
+.logo{
+    width: 100px;
+    cursor: pointer;
+}
 
 /*===== Colores =====*/
 :root{
